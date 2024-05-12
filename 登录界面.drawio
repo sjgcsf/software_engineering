@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T11:42:03.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lMdPLgLuwqMmomBwuYOl" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T11:56:06.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bhFAylUc13ETrvVG56QE" version="24.4.0" type="github">
   <diagram name="第 1 页" id="QVGxavetMEc_v-hAi_PU">
-    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,12 +16,12 @@
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-4">
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="sourcePoint" />
-            <mxPoint x="220" y="200" as="targetPoint" />
+            <mxPoint x="320" y="170" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="170" />
+              <mxPoint x="250" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,50 +30,45 @@
             <mxPoint x="5" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-4">
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-4" target="wp-qPJgZSI0s8oExYmE6-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="180" as="sourcePoint" />
             <mxPoint x="570" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="170" />
+              <mxPoint x="550" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;注册&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-8">
           <mxGeometry x="-0.1508" y="2" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
+            <mxPoint x="-2" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;提取&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;用户名和密码&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;提取&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;用户名和密码&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;收集注册信息&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名存在&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;于Mongodb&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="160" height="60" as="geometry" />
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名存在&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;于数据库&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-10" target="wp-qPJgZSI0s8oExYmE6-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="300" as="sourcePoint" />
-            <mxPoint x="430" y="250" as="targetPoint" />
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="300" as="sourcePoint" />
-            <mxPoint x="220" y="400" as="targetPoint" />
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="250" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-14">
-          <mxGeometry x="-0.08" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-12">
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-18" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="350" as="sourcePoint" />
-            <mxPoint x="40" y="310" as="targetPoint" />
+            <mxPoint x="170" y="370" as="sourcePoint" />
+            <mxPoint x="120" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-18">
@@ -81,30 +76,27 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-21" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;密码比对&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wp-qPJgZSI0s8oExYmE6-26">
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-21" target="wp-qPJgZSI0s8oExYmE6-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219.5" y="460" as="sourcePoint" />
             <mxPoint x="320" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="540" />
+              <mxPoint x="250" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-22">
-          <mxGeometry x="-0.08" relative="1" as="geometry">
-            <mxPoint x="37" as="offset" />
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-22">
+          <mxGeometry x="-0.4425" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;问答界面&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="340" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="354" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="429.5" as="sourcePoint" />
-            <mxPoint x="40" y="429.5" as="targetPoint" />
+            <mxPoint x="220" y="540" as="sourcePoint" />
+            <mxPoint x="120" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wp-qPJgZSI0s8oExYmE6-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-27">
@@ -112,13 +104,117 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提示“登录失败，请检查用户名和密码”&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="480" width="150" height="50" as="geometry" />
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;“登录失败，&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;请检查用户名和密码”&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wp-qPJgZSI0s8oExYmE6-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-31" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名和密码&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;是否有效&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="310" as="sourcePoint" />
-            <mxPoint x="40" y="480" as="targetPoint" />
+            <mxPoint x="549.5" y="240" as="sourcePoint" />
+            <mxPoint x="549.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wp-qPJgZSI0s8oExYmE6-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.5" y="340" as="sourcePoint" />
+            <mxPoint x="549.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-33">
+          <mxGeometry x="-0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wp-qPJgZSI0s8oExYmE6-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="309.5" as="sourcePoint" />
+            <mxPoint x="700" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-36" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-35">
+          <mxGeometry x="-0.08" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-37" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名唯一性检查&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-37" target="wp-qPJgZSI0s8oExYmE6-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.5" y="470" as="sourcePoint" />
+            <mxPoint x="260" y="630" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-39" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-38">
+          <mxGeometry x="-0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wp-qPJgZSI0s8oExYmE6-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="419.5" as="sourcePoint" />
+            <mxPoint x="700" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-40">
+          <mxGeometry x="-0.08" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;密码加密与存储&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-42" target="wp-qPJgZSI0s8oExYmE6-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="550" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;“您已成功注册”&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-12" target="wp-qPJgZSI0s8oExYmE6-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.5" y="460" as="sourcePoint" />
+            <mxPoint x="384" y="690" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-46" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-45">
+          <mxGeometry x="-0.08" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-21" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;密码比对&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wp-qPJgZSI0s8oExYmE6-44" target="wp-qPJgZSI0s8oExYmE6-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="580" as="sourcePoint" />
+            <mxPoint x="364" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-49" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wp-qPJgZSI0s8oExYmE6-48">
+          <mxGeometry x="-0.4425" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;“用户名和密码&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;都不能为空”&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;“用户名已被占用，&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;请使用其他用户名”&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp-qPJgZSI0s8oExYmE6-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.408;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wp-qPJgZSI0s8oExYmE6-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
