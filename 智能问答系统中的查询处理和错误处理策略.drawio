@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T09:30:38.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Bfd_UGiDRWsvgRIzzdd-" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T11:59:16.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="MJUrVpij9fn8XJmtHmsW" version="24.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1303" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,11 +125,13 @@
             <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUkGCof2Z1n3hhd6cARX-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.382;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.763;entryY=0.771;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ru-97hgleYfk95iNLZKJ-21" target="ru-97hgleYfk95iNLZKJ-3">
+        <mxCell id="GUkGCof2Z1n3hhd6cARX-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.382;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.714;entryY=0.828;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ru-97hgleYfk95iNLZKJ-21" target="ru-97hgleYfk95iNLZKJ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="697.79" y="425" as="sourcePoint" />
-            <mxPoint x="567.79" y="460" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="434" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="434" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GUkGCof2Z1n3hhd6cARX-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ru-97hgleYfk95iNLZKJ-25" target="ru-97hgleYfk95iNLZKJ-26">
